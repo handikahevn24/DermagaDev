@@ -1,0 +1,3 @@
+rootProject.name = 'DermagaDev'
+
+include ':app'
